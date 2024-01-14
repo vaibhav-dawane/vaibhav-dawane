@@ -4,17 +4,21 @@
 I am a final-year Computer Engineering student at MIT Academy of Engineering College. Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
 ## Tech Stack 💻
-![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-navy?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-pista?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-skyblue?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-indigo?style=for-the-badge)
 
 
+## Socials 📬
+- ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvaibhav-dawane-%2F)
 
-
-## Education 🎓
-- **B.Tech in Computer Engineering**
-  - MIT Academy of Engineering College
-  - Year of Graduation: [2024]
-
-## Contact 📬
-- **LinkedIn:** [![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/bc6727ae-9c61-44ac-a24d-54f397379a04)(https://www.linkedin.com/in/vaibhav-dawane-/)]
-- **Twitter:** [![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/9272a69f-b0f2-4101-9b82-9c3fe04c8ee2)(https://twitter.com/vaibhav_dawane)]
 
