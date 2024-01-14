@@ -3,15 +3,10 @@
 ## About Me 🚀
 I am a final-year Computer Engineering student at MIT Academy of Engineering College. Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
-## Skills 💻
-![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/d594963f-d428-4343-bb8a-7e5dbc36fc9e){:width="50px"}
+## Tech Stack 💻
+![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/f53ada56-89ec-463b-8411-9dad528d41d4)
 
-- **Programming Languages:** C++, Java, Python
-- **Databases:** MySQL, MongoDB
-- **Web Technologies:** HTML, CSS
-- **Operating Systems:** Linux
-- **Data Structures & Algorithms:** Strong understanding
-- **Technologies:** AWS, Kubernetes, Docker, Jenkins
+
 
 ## Education 🎓
 - **B.Tech in Computer Engineering**
