@@ -4,7 +4,7 @@
 I am a final-year Computer Engineering student at MIT Academy of Engineering College. Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
 ## Skills 💻
-![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/d594963f-d428-4343-bb8a-7e5dbc36fc9e)
+![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/d594963f-d428-4343-bb8a-7e5dbc36fc9e){:width="50px"}
 
 - **Programming Languages:** C++, Java, Python
 - **Databases:** MySQL, MongoDB
