@@ -19,6 +19,8 @@ I am a final-year Computer Engineering student at MIT Academy of Engineering Col
 
 
 ## Socials 📬
-- ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvaibhav-dawane-%2F)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvaibhav-dawane-%2F)
+
+
 
 
