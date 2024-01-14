@@ -4,7 +4,7 @@
 I am a final-year Computer Engineering student at MIT Academy of Engineering College. Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
 ## Tech Stack 💻
-![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/f53ada56-89ec-463b-8411-9dad528d41d4)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-blue)
 
 
 
