@@ -4,7 +4,8 @@
 I am a final-year Computer Engineering student at MIT Academy of Engineering College. Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
 ## Tech Stack 💻
-![Static Badge](https://img.shields.io/badge/c%2B%2B-blue)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge)
+
 
 
 
