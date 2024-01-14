@@ -36,6 +36,7 @@ I am a final-year Computer Engineering student at MIT Academy of Engineering Col
 
 ## Contact 📬
 - **Email:** [vpdawane@gmail.com]
-- **LinkedIn:** [[Your LinkedIn profile](https://www.linkedin.com/in/vaibhav-dawane-/)]
+- **LinkedIn:** [[![image](https://github.com/vaibhav-dawane/vaibhav-dawane/assets/137803297/bc6727ae-9c61-44ac-a24d-54f397379a04)
+](https://www.linkedin.com/in/vaibhav-dawane-/)]
 - **Twitter:** [[Your Twitter handle](https://twitter.com/vaibhav_dawane)]
 
