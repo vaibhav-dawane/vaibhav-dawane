@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi, I'm Vaibhav Dawane! 👋
 
-<!--
-**vaibhav-dawane/vaibhav-dawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+I am a final-year Computer Engineering student at MIT Academy of Engineering College. Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
-Here are some ideas to get you started:
+## Skills 💻
+- **Programming Languages:** C++, Java, Python
+- **Databases:** MySQL, MongoDB
+- **Web Technologies:** HTML, CSS
+- **Operating Systems:** Linux
+- **Data Structures & Algorithms:** Strong understanding
+- **Technologies:** AWS, Kubernetes, Docker, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 🛠️
+### Project 1: [Project Name]
+- Brief description goes here.
+- [Link to the project repository or live demo]
+- Technologies used: [List of technologies]
+
+### Project 2: [Project Name]
+- Brief description goes here.
+- [Link to the project repository or live demo]
+- Technologies used: [List of technologies]
+
+## Education 🎓
+- **B.Tech in Computer Engineering**
+  - MIT Academy of Engineering College
+  - Year of Graduation: [2024]
+
+- **Diploma in Information Technology**
+  - Government Polytechnic College, Nanded
+  - Year of Completion: [2021]
+
+## Certifications 🏅
+- **[AWS Cloud Practitioner], [Amazin Web Services], [2023]**
+
+## Contact 📬
+- **Email:** [vpdawane@gmail.com]
+- **LinkedIn:** [[Your LinkedIn profile](https://www.linkedin.com/in/vaibhav-dawane-/)]
+- **Twitter:** [[Your Twitter handle](https://twitter.com/vaibhav_dawane)]
+
