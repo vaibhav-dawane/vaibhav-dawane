@@ -16,6 +16,8 @@ IT Engineer Trainee at Cencora. I have completed Btech in Computer Engineering a
 ![Docker](https://img.shields.io/badge/Docker-skyblue?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-indigo?style=for-the-badge)
+![React](https://img.shields.io/badge/react-red?style=flat-square&logoSize=wide&color=blue)
+
 
 
 ## Socials 📬
