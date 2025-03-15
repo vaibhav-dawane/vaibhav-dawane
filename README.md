@@ -1,7 +1,7 @@
 # Hi, I'm Vaibhav Dawane! 👋
 
 ## About Me 🚀
-IT Engineer Trainee at Cencora. I have completed Btech in Computer Engineering at MIT Academy of Engineering College. I am Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
+I have completed Btech in Computer Engineering at MIT Academy of Engineering College. I am Passionate about technology, I thrive on learning and exploring new things in the vast realm of computer science.
 
 ## Tech Stack 💻
 ![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge)
